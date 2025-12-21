@@ -32,7 +32,7 @@
 
     LangChain • FastAPI • AWS Deployment
     
-    System Design & Architecture – understanding how things actually work in real-world projects
+    System Design & Architecture – Learning how i can impact the bussiness by implementing the automations
 
 📍 Based in India
 
