@@ -25,12 +25,11 @@
 
 💼 I have Worked upon:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 NALCO – SIH'24 Project  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 AI-based Attendance System  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 Krishi Moolya – Crop Price Prediction 
-
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 AI/CV - based Attendance captured and management System  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 MediMind - Multi Agent Workflow for Diagnosis
 🌱 Learning: 
 
-    LangChain • FastAPI • AWS Deployment
+    Advanced ML/DL • ML Pipelines • Knowledge Graphs for diff usescases • Scalable and Cost efficient solutions
     
     System Design & Architecture – Learning how i can impact the bussiness by implementing the automations
 
