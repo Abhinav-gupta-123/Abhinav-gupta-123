@@ -67,7 +67,6 @@
 | AI Attendance System | Face recognition system for attendance automation | Python, buffalo_l, insightface, MySQL | Ongoing |
 | Krishi Moolya | Crop price prediction platform for farmers | React, Node.js, FastAPI, ML, MongoDB, LLM | Dec 2024 – Dec 2024 |
 | MediMind | Multi Agent Workflow for Diagnosis | Python, React, Node.js, FastAPI, Graph RAG, Faiss, ClinicalBERT, LLM | Aug 2025 – Sep2025 |
-Multi Agent Workflow for Diagnosis
 
 ---
 
