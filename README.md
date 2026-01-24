@@ -27,9 +27,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 NALCO – SIH'24 Project  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 AI/CV - based Attendance captured and management System  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 MediMind - Multi Agent Workflow for Diagnosis
+
 🌱 Learning: 
 
-    Advanced ML/DL • ML Pipelines • Knowledge Graphs for diff usescases • Scalable and Cost efficient solutions
+    Advanced ML/DL • ML Pipelines • Knowledge Graphs for different business use cases • Scalable and Cost-Efficient Solutions
     
     System Design & Architecture – Learning how i can impact the bussiness by implementing the automations
 
