@@ -19,7 +19,7 @@
 
 🎓 Final Year B.Tech CSE Student at Acropolis Institute, Indore  
 
-📊 Current CGPA: 7.02
+📊 Current CGPA: 7.24
 
 💡 AI/ML enthusiast exploring evolving technologies practically.
 
