@@ -1,121 +1,230 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20AI%20Solutions%20That%20Matter&descAlignY=51&descSize=16" width="100%"/>
+<!-- Cyberpunk Style Header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,13,14,15,16&height=200&section=header&text=ABHINAV%20GUPTA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=🤖%20AI%20ARCHITECT%20|%20ML%20ENGINEER%20|%20DATA%20ALCHEMIST&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Scientist+%7C+ML+Engineer;Turning+Data+Into+Decisions;AI+for+Real-World+Impact" alt="Typing SVG" />
+<!-- 3D Rotating Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=⚡+Transforming+Data+Into+Intelligence;🚀+Building+AI+That+Solves+Real+Problems;💎+Where+Code+Meets+Creativity" alt="Animated Text" />
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Abhinav-gupta-123&color=0891b2&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<br/>
+
+<!-- Animated Badges -->
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20COLLAB-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=00ff00" alt="Status"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-ff00ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000" alt="Focus"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA%20🇮🇳-ff6b35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location"/>
+
+<br/><br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-gupta-123/Abhinav-gupta-123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-gupta-123/Abhinav-gupta-123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhinav-gupta-123/Abhinav-gupta-123/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Abhinav Gupta"
-        self.role = "AI/ML Engineer"
-        self.education = "B.Tech CSE @ Acropolis Institute, Indore"
-        self.location = "India 🇮🇳"
-        self.current_focus = [
-            "Advanced ML/DL Pipelines",
-            "Knowledge Graphs for Business",
-            "System Design & Architecture",
-            "Cost-Efficient AI Solutions"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
+## 🧬 NEURAL NETWORK PROFILE
 
-me = DataScientist()
-me.say_hi()
+</div>
+
+```yaml
+abhinav_gupta.exe:
+  classification: "AI/ML Engineer & Data Scientist"
+  version: "2025.1.0"
+  
+  core_modules:
+    education: "B.Tech CSE @ Acropolis Institute, Indore"
+    gpa: 7.24
+    location: "Pune, Maharashtra, IN"
+    status: "Training Neural Networks 🧠"
+  
+  active_missions:
+    - name: "NALCO Optimizer"
+      status: "⚡ SIH'24 Grand Finalist"
+      tech: ["Python", "React", "FastAPI", "ML", "LLMs"]
+      
+    - name: "MediMind"
+      status: "🏥 Multi-Agent Diagnostic System"
+      tech: ["GraphRAG", "FAISS", "ClinicalBERT", "LLMs"]
+      
+    - name: "AI Attendance System"
+      status: "📸 Production Ready"
+      tech: ["InsightFace", "buffalo_l", "MySQL", "FAISS"]
+      
+    - name: "Krishi Moolya"
+      status: "🌾 Empowering Farmers"
+      tech: ["React", "Node.js", "FastAPI", "MongoDB"]
+  
+  learning_pipeline:
+    - Advanced ML/DL Architectures
+    - Production ML Pipelines
+    - Knowledge Graphs @ Scale
+    - System Design for AI
+    - Cost-Efficient Solutions
+  
+  superpower: "Building AI that actually works in production 🚀"
 ```
-
-<details>
-<summary>🎯 <b>Current Mission</b></summary>
-<br>
-
-> Building scalable AI solutions that bridge the gap between cutting-edge research and real-world business problems. Currently diving deep into multi-agent systems, knowledge graphs, and production-grade ML pipelines.
-
-**🔭 Working On:**
-- 🏭 NALCO Optimization Engine (SIH'24 Grand Finalist)
-- 📸 AI-Powered Attendance System with Face Recognition
-- 🏥 MediMind: Multi-Agent Diagnostic Workflow
-- 🌾 Krishi Moolya: Crop Price Prediction Platform
-
-</details>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+## ⚡ TECH STACK ARSENAL
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,react,nodejs,fastapi,flask,docker,mongodb,mysql,git,github,vscode,linux&perline=8&theme=dark" alt="Tech Stack"/>
+
+### 🧠 AI/ML WEAPONRY
+
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-FF0080?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛠️ ENGINEERING TOOLS
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
 
 <div align="center">
 
+## 🎯 MISSION CONTROL CENTER
+
+</div>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🏭 NALCO Optimizer
-**SIH 2024 Grand Finalist**
+<img src="https://img.icons8.com/nolan/128/factory.png" width="80"/>
 
-Intelligent prediction & optimization engine for AL wire rod properties
+### 🏭 NALCO OPTIMIZER
+**Grand Finalist SIH'24**
 
-**Stack:** `Python` `React` `FastAPI` `ML` `LLMs`
+```diff
++ Real-time AL wire rod prediction
++ User-driven property optimization
++ LLM-powered insights engine
+```
 
-**Impact:** Real-time property prediction with user-driven optimization
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<a href="#"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Impact:** Industrial AI @ Scale
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🏥 MediMind
-**Multi-Agent Diagnostic System**
+<img src="https://img.icons8.com/nolan/128/stethoscope.png" width="80"/>
 
-Graph RAG-powered medical diagnosis workflow with clinical precision
+### 🏥 MEDIMIND
+**Multi-Agent Diagnostic AI**
 
-**Stack:** `Python` `React` `GraphRAG` `FAISS` `ClinicalBERT`
+```diff
++ Graph RAG architecture
++ Clinical-grade embeddings
++ Multi-agent collaboration
+```
 
-**Impact:** Intelligent multi-agent collaboration for diagnosis
+![GraphRAG](https://img.shields.io/badge/-GraphRAG-FF0080?style=flat-square&logo=graphql&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![BERT](https://img.shields.io/badge/-BERT-4285F4?style=flat-square&logo=google&logoColor=white)
 
-<a href="#"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+**Impact:** Healthcare AI Revolution
+
+</td>
+<td width="33%" align="center">
+
+<img src="https://img.icons8.com/nolan/128/camera.png" width="80"/>
+
+### 📸 AI ATTENDANCE
+**Smart Recognition System**
+
+```diff
++ 99%+ accuracy face detection
++ Real-time processing pipeline
++ MySQL + FAISS hybrid storage
+```
+
+![InsightFace](https://img.shields.io/badge/-InsightFace-5C3EE8?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**Impact:** Automation at Work
 
 </td>
 </tr>
+</table>
+</div>
 
+---
+
+<div align="center">
+
+## 📊 PERFORMANCE METRICS
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-gupta-123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=ff00ff&text_color=ffffff&ring_color=00f5ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-gupta-123&theme=radical&hide_border=true&background=0d1117&stroke=00f5ff&ring=ff00ff&fire=ff6b35&currStreakLabel=ffffff" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-gupta-123&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00f5ff&line=ff00ff&point=ff6b35&area=true&custom_title=Contribution%20Matrix" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhinav-gupta-123&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 LANGUAGE DISTRIBUTION
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-gupta-123&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENT UNLOCKED
+
+<table>
 <tr>
-<td width="50%">
-
-### 📸 AI Attendance System
-**Face Recognition Automation**
-
-Production-ready attendance system with InsightFace & FAISS
-
-**Stack:** `Python` `buffalo_l` `InsightFace` `MySQL` `FAISS`
-
-**Impact:** Automated attendance with 99%+ accuracy
-
-<a href="#"><img src="https://img.shields.io/badge/In_Progress-FFA500?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/trophy.png"/>
+<br/>
+<b>🥇 SIH 2024</b>
+<br/>
+<sub>Grand Finalist</sub>
 </td>
-<td width="50%">
-
-### 🌾 Krishi Moolya
-**Farmer Price Prediction**
-
-AI-powered crop price forecasting for Indian farmers
-
-**Stack:** `React` `Node.js` `FastAPI` `MongoDB` `ML`
-
-**Impact:** Empowering farmers with data-driven pricing
-
-<a href="#"><img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/brain.png"/>
+<br/>
+<b>🧠 4+ AI Projects</b>
+<br/>
+<sub>Production Grade</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/code.png"/>
+<br/>
+<b>💻 B.Tech CSE</b>
+<br/>
+<sub>Acropolis Institute</sub>
 </td>
 </tr>
 </table>
@@ -124,122 +233,64 @@ AI-powered crop price forecasting for Indian farmers
 
 ---
 
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhinav-gupta-123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-gupta-123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-gupta-123&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-gupta-123&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 Achievement | 📅 Year | 🌟 Impact |
-|:---|:---:|:---|
-| 🥇 **SIH 2024 Grand Finalist** | 2024 | National-level recognition for NALCO project |
-| 🎓 **B.Tech CSE Student** | 2021-2025 | CGPA: 7.24 @ Acropolis Institute |
-| 💡 **4+ AI/ML Projects** | 2024-2025 | Production-ready solutions across domains |
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhinav-gupta-123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 💡 Philosophy
-
-<div align="center">
+## 💭 DEVELOPER PHILOSOPHY
 
 ```ascii
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  "The best way to predict the future is to build it       ║
-║   with data, algorithms, and a dash of creativity."       ║
-║                                                            ║
-║              - Every Data Scientist Ever 📊🤖              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🌌 "In the intersection of data and algorithms,               ║
+║       we find the power to reshape reality."                    ║
+║                                                                  ║
+║   🚀 LEARN → BUILD → SHIP → ITERATE                             ║
+║                                                                  ║
+║   💡 Not just creating models, but crafting solutions           ║
+║      that make a measurable impact in the real world.           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-### 🎯 My Approach
-**Learn** → **Build** → **Share** → **Repeat**
-
-Building practical AI solutions that create real impact, one model at a time.
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abhinavg963%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavg963@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-gupta-34a1b2349)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhinav-gupta-123)
+## 🎮 CONNECT & COLLABORATE
 
-### 💬 Open to Collaborate On
-`Machine Learning Projects` • `AI Research` • `Open Source` • `Hackathons` • `Mentorship`
+<a href="mailto:abhinavg963@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-abhinavg963%40gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/abhinav-gupta-34a1b2349">
+  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/Abhinav-gupta-123">
+  <img src="https://img.shields.io/badge/GITHUB-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+<br/><br/>
+
+### 🤝 OPEN TO
+
+`🔬 Research Collaborations` • `💼 Freelance Projects` • `🏆 Hackathons` • `👨‍🏫 Mentorship` • `🚀 Startup Ideas`
+
+<br/>
+
+<!-- Visitor Count with Style -->
+<img src="https://profile-counter.glitch.me/Abhinav-gupta-123/count.svg" alt="Visitor Count" />
+
+</div>
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀;Happy+Coding!+💻" alt="Footer Animation"/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=⭐+Star+my+repos+if+you+find+them+interesting!;🚀+Let's+build+the+future+with+AI!;💬+Always+open+to+interesting+conversations!;🔥+Keep+learning%2C+keep+building!" alt="Footer Animation"/>
+
+<br/>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
