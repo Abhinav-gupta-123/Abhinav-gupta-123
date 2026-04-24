@@ -182,7 +182,7 @@ AI-powered crop price forecasting for Indian farmers
 |:---|:---:|:---|
 | 🥇 **SIH 2024 Grand Finalist** | 2024 | National-level recognition for NALCO project |
 | 🎓 **B.Tech CSE Student** | 2021-2025 | CGPA: 7.24 @ Acropolis Institute |
-| 💡 **4+ AI/ML Projects** | 2024-2025 | Production-ready solutions across domains |
+| 💡 **6+ AI/ML Projects** | 2024-2025 | Production-ready solutions across domains |
 
 </div>
 
